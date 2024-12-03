@@ -1,6 +1,8 @@
 <h1>Hi 👋, I'm Sahil Kumar</h1>
 
 <h2>About me</h2>
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTA2YzNrZm5lcXduaWw5b2dpcjRoeXhiamwxenVhNmZhMTA4bTVsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ryRe2vuYIQ3RQ5eMtY/giphy.gif">
+
 <p>A passionate Software engineer ,AI-Ml and robotics enthusiasts with expertise in a diverse range of technologies, including Machine Learning, Deep Learning, Artificial Intelligence, Computer Vision, Data Science, and Blockchain. Currently, I'm working on the prestigious DARPA Robotics Challenge (DRC), a project focused on developing human-supervised robotic technology for disaster-response operations. This challenge, part of the U.S. Department of Defense's strategic plan, emphasizes creating robots capable of performing complex tasks in hazardous and degraded environments. I dedicate more than 75 hours per week to this highly demanding and impactful project.</p>
 <h2>Key Highlights:</h2>
 <p>I've actively participated in numerous international robotics competitions, showcasing my expertise and contributing to advancing robotics technology.</p>
